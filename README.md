@@ -25,7 +25,7 @@ I'm a software engineer & creative technologist passionate about building projec
 
 ## 📊 GitHub Stats
 
-![Minti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyrwise&show_icons=true&theme=tokyonight)
+![Cyrus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyrwise&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cyrwise&layout=compact&theme=tokyonight)
 
 ---
