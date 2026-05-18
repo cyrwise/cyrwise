@@ -26,7 +26,7 @@
 
 <br/>
 
-Software engineer and ML researcher studying Electrical Engineering & Computer Science (EECS) and Data Science at UC Berkeley. Research background at NASA and Stanford, co-founder of [Anre Consulting](https://anreconsulting.com), a tech and business consulting firm. Former Graduate Student Instructor at UC Berkeley with a deep interest in mentorship and giving back through code. Also a warriors fan who loves linux.
+Hey, I'm Software engineer and ML researcher studying Electrical Engineering & Computer Science (EECS) and Data Science at UC Berkeley. Research background at NASA and Stanford, co-founder of [Anre Consulting](https://anreconsulting.com), a tech and business consulting firm. Former Graduate Student Instructor at UC Berkeley with a deep interest in mentorship and giving back through code. Also a warriors fan who loves linux.
 
 Outside of engineering, I have recently expanded into content creation, amassing 3M+ views across my own channels, drawing on my past experience as an editor where I helped other creators scale to significantly larger viewerships.
 
