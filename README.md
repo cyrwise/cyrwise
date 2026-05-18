@@ -1,10 +1,17 @@
 <div align="center">
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="100%" height="15" alt="spacer" />
+
 <img src="./seal-bw.png" width="90" height="90" alt="UC Berkeley" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/1x1.png" width="100%" height="15" alt="spacer" />
 
-<a href="https://github.com/cyrwise"><img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=42&color=111111&center=true&vCenter=true&width=500&lines=Cyrus+Wise&duration=1&pause=100000" alt="Cyrus Wise" /></a>
+<a href="https://github.com/cyrwise">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=42&color=ffffff&center=true&vCenter=true&width=500&lines=Cyrus+Wise&duration=1&pause=100000">
+    <img src="https://readme-typing-svg.demolab.com?font=DM+Serif+Display&weight=400&size=42&color=111111&center=true&vCenter=true&width=500&lines=Cyrus+Wise&duration=1&pause=100000" alt="Cyrus Wise" />
+  </picture>
+</a>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=808080&height=2" width="320" alt="divider"/>
 <br/>
