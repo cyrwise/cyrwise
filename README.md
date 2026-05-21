@@ -38,12 +38,6 @@ Currently working on my **Transfer Pathway AI**, a platform helping transfer stu
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cyrwise&bg_color=ffffff&color=111111&line=D90429&point=D90429&area=true&area_color=ffeeee&hide_border=false&border_color=111111)](https://github.com/cyrwise)
 
-<br/>
-
-<div style="margin-top: -5px; margin-bottom: -20px;">
-<img src="./bird-accent.webp" width="180" alt="Primal Bird Accent" style="opacity: 0.9;" />
-</div>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=1" width="100%"/>
