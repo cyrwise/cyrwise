@@ -16,9 +16,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=808080&height=2" width="320" alt="divider"/>
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=D90429&center=true&vCenter=true&width=500&lines=Software+Engineer;ML+Researcher;Full-Stack+Developer" alt="Typing SVG" />
-
-*Software Engineer · UC Berkeley EECS*
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=D90429&center=true&vCenter=true&width=500&lines=ML+Researcher;Full-Stack+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -26,40 +24,42 @@
 
 <br/>
 
-Hey, I'm Software engineer and ML researcher studying Electrical Engineering & Computer Science (EECS) and Data Science at UC Berkeley. Research background at NASA and Stanford, co-founder of [Anre Consulting](https://anreconsulting.com), a tech and business consulting firm. Former Graduate Student Instructor at UC Berkeley with a deep interest in mentorship and giving back through code. Also a warriors fan who loves linux.
+Hey, I'm a Software Engineer and ML Researcher studying EECS and Data Science at UC Berkeley. Previously, I've done research at **NASA** and **Stanford**, taught as a Graduate Student Instructor, and co-founded **[Anre AI](https://anreai.com)**. I'm a huge Warriors fan, a Linux power user since I was 10, and I love giving back through code and mentorship.
 
-Outside of engineering, I have recently expanded into content creation, amassing 3M+ views across my own channels, drawing on my past experience as an editor where I helped other creators scale to significantly larger viewerships.
-
-Currently working on my **Transfer Pathway AI**, a platform helping transfer students navigate admissions, and **Gymber**, a fitness matchmaking iOS app.
+Currently, I'm co-leading the **[My Lyfe App](https://mylyfeapp.com)** development team, creating a **University Admissions AI** to help students curate successful applications, developing **Gymber** (a fitness matchmaking iOS app), and building my new tech channels while drawing on my experience scaling a separate cultural brand to 3M+ viewers.
 
 <br/>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cyrwise&bg_color=ffffff&color=111111&line=D90429&point=D90429&area=true&area_color=ffeeee&hide_border=false&border_color=111111)](https://github.com/cyrwise)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cyrwise&bg_color=transparent&hide_border=true&color=111111&line=D90429&point=D90429&area=true&area_color=transparent)](https://github.com/cyrwise)
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=1" width="100%"/>
 
-<br/><br/>
+<div>
+<a href="https://cyruswise.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&color=ffffff&vCenter=true&width=95&lines=PORTFOLIO&duration=1&pause=100000">
+    <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&color=111111&vCenter=true&width=95&lines=PORTFOLIO&duration=1&pause=100000" alt="Portfolio" />
+  </picture>
+</a>
+<img align="left" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='1'%3E%3C/svg%3E" alt="" />
+<a href="mailto:cyr@berkeley.edu">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&color=ffffff&vCenter=true&width=60&lines=EMAIL&duration=1&pause=100000">
+    <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&color=111111&vCenter=true&width=60&lines=EMAIL&duration=1&pause=100000" alt="Email" />
+  </picture>
+</a>
 
-<div align="center">
-
-<div style="margin-bottom: -15px;">
-<a href="https://cyruswise.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&color=D90429&vCenter=true&width=95&lines=PORTFOLIO&duration=1&pause=100000" alt="Portfolio" style="vertical-align: middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:cyr@berkeley.edu"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&color=D90429&vCenter=true&width=60&lines=EMAIL&duration=1&pause=100000" alt="Email" style="vertical-align: middle;" /></a>
+<a href="https://youtube.com/cyrwise"><img align="right" src="https://cdn.simpleicons.org/youtube/D90429" width="30" height="30" alt="YouTube" /></a>
+<img align="right" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='1'%3E%3C/svg%3E" alt="" />
+<a href="https://tiktok.com/@cyrwise"><img align="right" src="https://cdn.simpleicons.org/tiktok/D90429" width="30" height="30" alt="TikTok" /></a>
+<img align="right" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='1'%3E%3C/svg%3E" alt="" />
+<a href="https://instagram.com/cyruwise"><img align="right" src="https://cdn.simpleicons.org/instagram/D90429" width="30" height="30" alt="Instagram" /></a>
+<img align="right" src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='15' height='1'%3E%3C/svg%3E" alt="" />
+<a href="https://linkedin.com/in/cyruswise"><img align="right" src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23D90429" width="30" height="30" alt="LinkedIn" /></a>
 </div>
 
-<br/><br/>
-
-<div style="margin-top: -15px;">
-<a href="https://linkedin.com/in/cyruswise"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%23D90429" width="30" height="30" alt="LinkedIn" style="vertical-align: middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/cyruwise"><img src="https://cdn.simpleicons.org/instagram/D90429" width="30" height="30" alt="Instagram" style="vertical-align: middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://tiktok.com/@cyrwise"><img src="https://cdn.simpleicons.org/tiktok/D90429" width="30" height="30" alt="TikTok" style="vertical-align: middle;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://youtube.com/cyrwise"><img src="https://cdn.simpleicons.org/youtube/D90429" width="30" height="30" alt="YouTube" style="vertical-align: middle;" /></a>
-</div>
-
-</div>
-
-<br/>
+<br clear="both"/>
